@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Call-Of-Duty\obj\Debug\call-of-duty.esproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Call-Of-Duty\obj\Debug\call-of-duty.esproj.CoreCompileInputs.cache
